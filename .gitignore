@@ -1,0 +1,4 @@
+rounds/*/work/
+rounds/*/extracted.txt
+rounds/*/*.zip
+__pycache__/
